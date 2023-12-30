@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and Web Dev**
 
-- 📫 How to reach me **work.tilakshankar@gmail.com**
+- 📫 How to reach me **work.tilakshankar@gmail.com**  
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
